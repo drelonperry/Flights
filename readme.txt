@@ -1,6 +1,8 @@
 README FILE FOR DAILY GLOBAL HISTORICAL CLIMATOLOGY NETWORK (GHCN-DAILY) 
 Version 3.21
 
+This program utilizes the numpy library to sort 
+
 --------------------------------------------------------------------------------
 How to cite:
 
