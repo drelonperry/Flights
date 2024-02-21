@@ -2,8 +2,9 @@ README FILE FOR DAILY GLOBAL HISTORICAL CLIMATOLOGY NETWORK (GHCN-DAILY)
 Version 3.21
 
 This program utilizes the numpy library to sort various data files into graphs
-to have a visual representation of the data. Below is an explain and guide on 
-how to read the .dly files for this program to have a better understanding.
+to have a visual representation of the data that I created for my Data Science 
+class. Below is an explain and guide on how to read the .dly files for this 
+program to have a better understanding.
 
 --------------------------------------------------------------------------------
 How to cite:
