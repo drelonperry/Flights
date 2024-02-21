@@ -3,8 +3,8 @@ Version 3.21
 
 This program utilizes the numpy library to sort various data files into graphs
 to have a visual representation of the data that I created for my Data Science 
-class. Below is an explain and guide on how to read the .dly files for this 
-program to have a better understanding.
+class. Below is an explaination and guide on how to read the .dly files to
+understand the information in those files.
 
 To execute the program, from the command line convert the code from notebook to
 python by using this command:
